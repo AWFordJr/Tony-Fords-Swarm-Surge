@@ -5,7 +5,7 @@ Created by Anthony W. Ford, Jr. (Tony Ford). *Because The Best Things In Life Ar
 
 No ads, no payments, ever. Grab pickups for more bullets and upgrades, but every upgrade makes the swarm flood in faster.
 
-![Gameplay at wave 25](screenshots/gameplay-wave25.png)
+![Gameplay at wave 257 with 102,278,494 points](screenshots/gameplay-wave257.png)
 ![Victory: the hive is broken](screenshots/victory-hive-broken.png)
 
 ## ⬇️ Download
