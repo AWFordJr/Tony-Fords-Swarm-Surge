@@ -8,16 +8,12 @@ No ads, no payments, ever. Grab pickups for more bullets and upgrades, but every
 ![Gameplay at wave 257 with 102,278,494 points](screenshots/gameplay-wave257.png)
 ![Victory: the hive is broken](screenshots/victory-hive-broken.png)
 
-## ⬇️ Download
-Get the latest version from the [Releases page](../../releases/latest).
 
-| Platform | File |
-|---|---|
-| Windows (64-bit) | `TonyFords-SwarmSurge-v1.0-Windows-Portable.exe` |
-| Linux (x86_64) | `TonyFords-SwarmSurge-v1.0-Linux-x86_64.AppImage` or `...-Linux-x64.tar.gz` |
-| Android 7.0+ | `TonyFords-SwarmSurge-v1.0.apk` |
-
-`SHA256SUMS.txt` on the release lets you check that your download is genuine.
+## ⬇️ Downloads (v1.1.1)
+- **Windows (portable):** [TonyFords-SwarmSurge-1.1.1-Portable.exe](Downloads/TonyFords-SwarmSurge-1.1.1-Portable.exe?raw=1)
+- **Linux:** [TonyFords-SwarmSurge-1.1.1-linux-x86_64.AppImage](Downloads/TonyFords-SwarmSurge-1.1.1-linux-x86_64.AppImage?raw=1)
+- **Android 7.0+:** [TonyFords-SwarmSurge-v1.1.1.apk](Downloads/TonyFords-SwarmSurge-v1.1.1.apk?raw=1)
+- **Checksums:** [SHA256SUMS.txt](Downloads/SHA256SUMS.txt)
 
 ## How to run
 **Windows:** It's a single portable file, so there's nothing to install. Just double-click it. It isn't signed yet, so Windows SmartScreen may show "unknown publisher." Click **More info**, then **Run anyway**.
