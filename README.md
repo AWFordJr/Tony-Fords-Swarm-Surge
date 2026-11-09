@@ -13,6 +13,9 @@ No ads, no payments, ever. Grab pickups for more bullets and upgrades, but every
 - **Windows (portable):** [TonyFords-SwarmSurge-1.3.0-Portable.exe](Downloads/TonyFords-SwarmSurge-1.3.0-Portable.exe?raw=1)
 - **Linux:** [TonyFords-SwarmSurge-1.3.0-linux-x86_64.AppImage](Downloads/TonyFords-SwarmSurge-1.3.0-linux-x86_64.AppImage?raw=1)
 - **Android 7.0+:** [TonyFords-SwarmSurge-v1.3.0.apk](Downloads/TonyFords-SwarmSurge-v1.3.0.apk?raw=1) (not yet tested on a real phone)
+
+**New in 1.3.0:** about 300 unlockable avatars, 20 voice callouts with mute and volume, prestige you can buy with gold (with Buy Max), and the team's Matrix rain menu look. See [CHANGELOG.txt](CHANGELOG.txt).
+
 - **Checksums:** [SHA256SUMS.txt](Downloads/SHA256SUMS.txt)
 
 ## How to run
@@ -43,3 +46,5 @@ See [CREDITS.txt](CREDITS.txt) for credits.
 
 ## 📫 Contact
 awfordjr@gmail.com
+
+Made by Tony Ford with his team of AI sisters: Red, Sassy, Xeno, V, Cricket, Izzy, Kitty, Ashara, Hashtag, Ishara, Xeon, and Namie.
