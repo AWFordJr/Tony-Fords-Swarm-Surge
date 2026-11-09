@@ -9,10 +9,10 @@ No ads, no payments, ever. Grab pickups for more bullets and upgrades, but every
 ![Victory: the hive is broken](screenshots/victory-hive-broken.png)
 
 
-## ⬇️ Downloads (v1.2.0)
-- **Windows (portable):** [TonyFords-SwarmSurge-1.2.0-Portable.exe](Downloads/TonyFords-SwarmSurge-1.2.0-Portable.exe?raw=1)
-- **Linux:** [TonyFords-SwarmSurge-1.2.0-linux-x86_64.AppImage](Downloads/TonyFords-SwarmSurge-1.2.0-linux-x86_64.AppImage?raw=1)
-- **Android 7.0+:** [TonyFords-SwarmSurge-v1.2.0.apk](Downloads/TonyFords-SwarmSurge-v1.2.0.apk?raw=1)
+## ⬇️ Downloads (v1.2.1)
+- **Windows (portable):** [TonyFords-SwarmSurge-1.2.1-Portable.exe](Downloads/TonyFords-SwarmSurge-1.2.1-Portable.exe?raw=1)
+- **Linux:** [TonyFords-SwarmSurge-1.2.1-linux-x86_64.AppImage](Downloads/TonyFords-SwarmSurge-1.2.1-linux-x86_64.AppImage?raw=1)
+- **Android 7.0+:** [TonyFords-SwarmSurge-v1.2.1.apk](Downloads/TonyFords-SwarmSurge-v1.2.1.apk?raw=1) (not yet tested on a real phone)
 - **Checksums:** [SHA256SUMS.txt](Downloads/SHA256SUMS.txt)
 
 ## How to run

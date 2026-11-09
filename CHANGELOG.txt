@@ -1,0 +1,25 @@
+Tony Ford's Swarm Surge - Changelog
+
+1.2.1 (Android versionCode 5)
+- FIX: shooter movement no longer feels springy/elastic. Removed the virtual joystick (which used a 0.1 catch-up lerp and velocity steering that let the ship sail far from your finger/mouse). Movement is now DIRECT lock: mouse = ship under cursor; touch = ship locked to finger with a small fixed lift so it stays visible. No spring easing, no lag, no overshoot. Clamped to screen bounds. WASD still works.
+- Keeps 1.2.0 difficulty (buff decay, anti-idle MOVE!, late-wave ramp), prestige-on-quit, save compatibility, and credits (awfordjr@gmail.com + TonyFord.us).
+- Release JS still minified + moderately obfuscated; no source maps; no source zip in the package.
+
+1.2.0 (Android versionCode 4)
+- HARDER: pickup buffs (shots/rate/damage/pierce/speed) now time out unless you grab another of the same kind. HUD shows countdown timers.
+- HARDER: standing still ~2 seconds triggers a MOVE! warning. The swarm speeds up, closes in, spawns chargers, and fires ranged shots. Your auto-fire and damage are cut while idle so sitting still cannot clear the screen.
+- HARDER: waves past 50 and again past 150 scale enemy HP, speed, density, and elites more steeply.
+- All of the above live in one balance config (SS.BAL) so tweaks stay in one place.
+- Release builds ship minified + moderately obfuscated JS (no source maps). Readable source is not included in the download package.
+- Prestige-on-quit fix from 1.1.1 is unchanged and re-verified. Saves stay compatible.
+- Credits still list awfordjr@gmail.com and TonyFord.us.
+
+1.1.1 (Android versionCode 3)
+- FIX: quitting or restarting a run mid-way (Pause > Quit to menu / Restart) now banks that run's XP, gold and stats exactly like a finished run. Before, the whole run was thrown away, so big runs never counted toward level 250 / prestige. Closing the game window mid-run banks too. (Runs under 1 second are ignored.)
+- FIX: Cheat Mode no longer blocks prestige (only the save-tamper flag does).
+- NEW: main menu Prestige button shows your level (e.g. "Lv 249/250") until you can prestige, then a big gold "PRESTIGE READY" button appears. The Prestige screen says exactly why it is locked.
+- NEW: About screen, CREDITS.txt and README now list TonyFord.us (-> github.com/AWFordJr) next to the contact email.
+- Saves are unchanged: same HMAC signing, 1.1.0 saves load as-is (progress kept).
+
+1.1.0
+- Levels 1-250, Prestige, daily quests + login streak, 540 achievements, shop, accessibility, signed autosave, Cheat Mode at level 250, and more.
