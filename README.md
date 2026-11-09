@@ -9,12 +9,12 @@ No ads, no payments, ever. Grab pickups for more bullets and upgrades, but every
 ![Victory: the hive is broken](screenshots/victory-hive-broken.png)
 
 
-## ⬇️ Downloads (v1.3.0)
-- **Windows (portable):** [TonyFords-SwarmSurge-1.3.0-Portable.exe](Downloads/TonyFords-SwarmSurge-1.3.0-Portable.exe?raw=1)
-- **Linux:** [TonyFords-SwarmSurge-1.3.0-linux-x86_64.AppImage](Downloads/TonyFords-SwarmSurge-1.3.0-linux-x86_64.AppImage?raw=1)
-- **Android 7.0+:** [TonyFords-SwarmSurge-v1.3.0.apk](Downloads/TonyFords-SwarmSurge-v1.3.0.apk?raw=1) (not yet tested on a real phone)
+## ⬇️ Downloads (v1.3.1)
+- **Windows (portable):** [TonyFords-SwarmSurge-1.3.1-Portable.exe](Downloads/TonyFords-SwarmSurge-1.3.1-Portable.exe?raw=1)
+- **Linux:** [TonyFords-SwarmSurge-1.3.1-linux-x86_64.AppImage](Downloads/TonyFords-SwarmSurge-1.3.1-linux-x86_64.AppImage?raw=1)
+- **Android 7.0+:** [TonyFords-SwarmSurge-v1.3.1.apk](Downloads/TonyFords-SwarmSurge-v1.3.1.apk?raw=1) (not yet tested on a real phone)
 
-**New in 1.3.0:** about 300 unlockable avatars, 20 voice callouts with mute and volume, prestige you can buy with gold (with Buy Max), and the team's Matrix rain menu look. See [CHANGELOG.txt](CHANGELOG.txt).
+**New in 1.3.1:** an easier start (gentler waves 1 to 10, a 4-second grace period, 25% more starting HP, +1 shot and +1 shield, and a smoother ramp to wave 40). **New in 1.3.0:** about 300 unlockable avatars, 20 voice callouts with mute and volume, prestige you can buy with gold (with Buy Max), and the team's Matrix rain menu look. See [CHANGELOG.txt](CHANGELOG.txt).
 
 - **Checksums:** [SHA256SUMS.txt](Downloads/SHA256SUMS.txt)
 

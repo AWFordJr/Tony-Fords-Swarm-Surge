@@ -1,5 +1,8 @@
 Tony Ford's Swarm Surge - Changelog
 
+1.3.1 (Android versionCode 7)
+- HOTFIX (early game): waves 1–10 much gentler — fewer/slower enemies, lower contact & projectile damage. 4s run-start grace (no enemy damage) + 2.5s spawn delay. Starting HP +25%, free +1 shot and +1 shield. Smooth ramp through wave ~40 (no cliff). Late game (wave 50+ / 150+) unchanged. All knobs in SS.BAL. Keeps 1.3.0 features, direct move, HMAC saves. Obfuscated release; no source maps; no source zip.
+
 1.3.0 (Android versionCode 6)
 - NEW: ~300 unlockable shooter avatars (procedural canvas skins across neon, insect/hive, mech, cosmic, fire, ice, holiday, retro, gem). Unlock by lifetime total score on a curve (early fast, later spread; ~27 after one ~100M run). Avatar picker on the main menu with locked/unlocked grid, preview, and next threshold. Cosmetic only — hitbox unchanged. Old saves load; lifetime score counts retroactively once tracked.
 - NEW: Score-milestone voice callouts (offline espeak-ng OGG): Nice!, On Fire!, Surge On!, Awesome!, Unstoppable!, Swarm Crusher!, Swarm Breaker!, Swarm Slayer!, Overpowered!, Magnificent!, Code Red Carnage!, Hive Breaker!, Epic Surge!, Surge Master!, Free and Fearless!, Total Takeover!, Legendary!, Legend Mode!, Trending!, Godlike! Cooldown ~3s (highest milestone wins). Mute + volume in Settings.
