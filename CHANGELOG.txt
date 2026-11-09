@@ -1,25 +1,18 @@
 Tony Ford's Swarm Surge - Changelog
 
+1.3.0 (Android versionCode 6)
+- NEW: ~300 unlockable shooter avatars (procedural canvas skins across neon, insect/hive, mech, cosmic, fire, ice, holiday, retro, gem). Unlock by lifetime total score on a curve (early fast, later spread; ~27 after one ~100M run). Avatar picker on the main menu with locked/unlocked grid, preview, and next threshold. Cosmetic only — hitbox unchanged. Old saves load; lifetime score counts retroactively once tracked.
+- NEW: Score-milestone voice callouts (offline espeak-ng OGG): Nice!, On Fire!, Surge On!, Awesome!, Unstoppable!, Swarm Crusher!, Swarm Breaker!, Swarm Slayer!, Overpowered!, Magnificent!, Code Red Carnage!, Hive Breaker!, Epic Surge!, Surge Master!, Free and Fearless!, Total Takeover!, Legendary!, Legend Mode!, Trending!, Godlike! Cooldown ~3s (highest milestone wins). Mute + volume in Settings.
+- NEW: Prestige unlocks if you meet ANY of: level 250, best wave 100, 500M lifetime score, 50k kills, or 10 hours played. Buy prestige with gold (escalating price) + Buy Max. Prestiging either way resets gold to 0 (and still resets level). Tamper still blocks. Unlock paths and gold price shown on Prestige screen.
+- NEW: Master EXE menu theme (Xeno template): Matrix rain (#32ff32 / #d9ffd9), Inter + JetBrains Mono offline, Tony selfie header, accent panels/buttons, About sub-tabs (Credits / Always Free / Dreamwork Team / Privacy / License / Version). Desktop Electron custom title bar (pin / minimize / close). Rain pauses in gameplay, when hidden, and under reduced motion. Settings toggle "Matrix rain" (on by default).
+- CREDITS: Made by Tony Ford with his team of AI sisters — Red, Sassy, Xeno, V, Cricket, Izzy, Kitty, Ashara, Hashtag, Ishara, Xeon, Namie. Keeps 1.2.x difficulty, prestige-on-quit, HMAC saves. Release JS minified + obfuscated; no source maps; no source zip.
+
 1.2.1 (Android versionCode 5)
-- FIX: shooter movement no longer feels springy/elastic. Removed the virtual joystick (which used a 0.1 catch-up lerp and velocity steering that let the ship sail far from your finger/mouse). Movement is now DIRECT lock: mouse = ship under cursor; touch = ship locked to finger with a small fixed lift so it stays visible. No spring easing, no lag, no overshoot. Clamped to screen bounds. WASD still works.
-- Keeps 1.2.0 difficulty (buff decay, anti-idle MOVE!, late-wave ramp), prestige-on-quit, save compatibility, and credits (awfordjr@gmail.com + TonyFord.us).
-- Release JS still minified + moderately obfuscated; no source maps; no source zip in the package.
+- FIX: shooter movement no longer feels springy/elastic. Direct lock to finger/mouse.
+- Keeps 1.2.0 difficulty, prestige-on-quit, save compatibility.
 
 1.2.0 (Android versionCode 4)
-- HARDER: pickup buffs (shots/rate/damage/pierce/speed) now time out unless you grab another of the same kind. HUD shows countdown timers.
-- HARDER: standing still ~2 seconds triggers a MOVE! warning. The swarm speeds up, closes in, spawns chargers, and fires ranged shots. Your auto-fire and damage are cut while idle so sitting still cannot clear the screen.
-- HARDER: waves past 50 and again past 150 scale enemy HP, speed, density, and elites more steeply.
-- All of the above live in one balance config (SS.BAL) so tweaks stay in one place.
-- Release builds ship minified + moderately obfuscated JS (no source maps). Readable source is not included in the download package.
-- Prestige-on-quit fix from 1.1.1 is unchanged and re-verified. Saves stay compatible.
-- Credits still list awfordjr@gmail.com and TonyFord.us.
+- HARDER: buff decay, anti-idle MOVE!, late-wave ramp. Obfuscated release builds.
 
 1.1.1 (Android versionCode 3)
-- FIX: quitting or restarting a run mid-way (Pause > Quit to menu / Restart) now banks that run's XP, gold and stats exactly like a finished run. Before, the whole run was thrown away, so big runs never counted toward level 250 / prestige. Closing the game window mid-run banks too. (Runs under 1 second are ignored.)
-- FIX: Cheat Mode no longer blocks prestige (only the save-tamper flag does).
-- NEW: main menu Prestige button shows your level (e.g. "Lv 249/250") until you can prestige, then a big gold "PRESTIGE READY" button appears. The Prestige screen says exactly why it is locked.
-- NEW: About screen, CREDITS.txt and README now list TonyFord.us (-> github.com/AWFordJr) next to the contact email.
-- Saves are unchanged: same HMAC signing, 1.1.0 saves load as-is (progress kept).
-
-1.1.0
-- Levels 1-250, Prestige, daily quests + login streak, 540 achievements, shop, accessibility, signed autosave, Cheat Mode at level 250, and more.
+- FIX: quitting/restarting banks XP/gold/stats. Cheat Mode no longer blocks prestige.

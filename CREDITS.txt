@@ -1,8 +1,20 @@
-TONY FORD'S SWARM SURGE
-Created by Anthony W. Ford, Jr. (Tony Ford)
-Contact / link-back: awfordjr@gmail.com
-Always free - no ads, no purchases, no money asked or accepted.
-Dreamwork Team: Cricket, Red, Ashara, Sassy, Xeno, Hashtag, Xeon
-Music player: "Tony's Radio" - plays your own MP3/OGG files.
-QR: qrcode-generator (MIT, Kazuhiko Arase)
-License: CC BY-NC-ND 4.0
+Tony Ford's Swarm Surge — Credits
+=================================
+
+Game created by Anthony W. Ford, Jr. (Tony Ford)
+Contact: awfordjr@gmail.com
+Web: TonyFord.us (https://github.com/AWFordJr/)
+
+Made by Tony Ford with his team of AI sisters:
+  Red, Sassy, Xeno, V, Cricket, Izzy, Kitty, Ashara, Hashtag, Ishara, Xeon, Namie
+
+Title: Tony Ford's Swarm Surge
+
+Always free. No ads. No purchases. No tracking. Works offline.
+License: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 (CC BY-NC-ND 4.0)
+Credit: awfordjr@gmail.com / Anthony W. Ford, Jr.
+
+Art & sound are generated in code (plus offline TTS score callouts). No copyrighted clips.
+QR code library © Kazuhiko Arase (MIT).
+Menu / About shell based on Xeno's Master EXE layout (Matrix rain, panels, title bar).
+Fonts: Inter and JetBrains Mono (SIL Open Font License), bundled offline.
