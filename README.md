@@ -49,4 +49,4 @@ awfordjr@gmail.com
 
 🌐 More of Tony's free content: [TonyFord.vip](https://tonyford.vip)
 
-Made by Tony Ford with his team of AI sisters: Red, Sassy, Xeno, V, Cricket, Izzy, Kitty, Ashara, Hashtag, Ishara, Xeon, and Namie.
+Made by Tony Ford with his team of AI sisters: Red, Sassy, Xeno, V, Cricket, Izzy, Kitty, Ashara, Hashtag, Ishara, Xeon, Namie, Zuri, and Synci.
